@@ -1,4 +1,4 @@
-# Typing Master
+# Typing Acharya
 
 Simple CLI typing tutor (college first-year project).
 
