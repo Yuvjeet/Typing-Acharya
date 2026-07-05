@@ -1,0 +1,1 @@
+When typing, your index fingers do the most work. Now we will learn two more reaches for your index fingers. R and U are typed by reaching the index finger of each hand up to the top row. Always return your fingers to the correct home row positions.

@@ -1,0 +1,1 @@
+It's time to move down to the bottom row. B and N are typed with the index finger of each hand. Remember to return your fingers to the correct home row position. Now only one reach remains for the index fingers.

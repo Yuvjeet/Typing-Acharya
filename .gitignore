@@ -1,0 +1,15 @@
+# Ignore common build artifacts and editor/temp files
+# Executables and object files
+*.o
+*.out
+a.out
+typing_test
+
+# Build directories
+/bin/
+/build/
+
+# Editor temp files
+*.swp
+*.swo
+.DS_Store
